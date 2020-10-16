@@ -1,0 +1,3 @@
+[submodule "video_streaming_app"]
+	path = video_streaming_app
+	url = https://github.com/oluwasheeun/video_streaming_app
